@@ -1,6 +1,6 @@
 # MedBioinfo 2023 Applied Bioinformatics
 
-# Test generated PAT :)
+# Test generated PAT! :)
 
 ## repo for re-analysis
 
