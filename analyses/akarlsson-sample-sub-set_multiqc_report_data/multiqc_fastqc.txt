@@ -1,0 +1,21 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+ERR6913104_1	ERR6913104_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	305303.0	0.0	35-151	54.0	88.79366017136579	125.22809143703141	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913104_2	ERR6913104_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	305303.0	0.0	35-151	54.0	88.91792329548689	125.21386950013593	pass	pass	pass	warn	fail	pass	warn	pass	pass	pass
+ERR6913131_1	ERR6913131_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1106408.0	0.0	35-151	43.0	93.5466473486428	141.3034106767124	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913131_2	ERR6913131_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1106408.0	0.0	35-151	43.0	93.61256386518949	141.29438868844042	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913132_1	ERR6913132_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1129092.0	0.0	35-151	47.0	90.78839291841913	139.80683770675907	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913132_2	ERR6913132_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1129092.0	0.0	35-151	47.0	90.90503012232449	139.80107821151864	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913133_1	ERR6913133_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	883888.0	0.0	35-151	57.0	88.72993831048109	141.62624337020074	pass	pass	pass	warn	fail	pass	warn	pass	pass	pass
+ERR6913133_2	ERR6913133_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	883888.0	0.0	35-151	57.0	88.97365113238605	141.6285819017794	pass	pass	pass	warn	fail	pass	warn	pass	pass	pass
+ERR6913134_1	ERR6913134_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	87387.0	0.0	35-151	43.0	89.37370547106549	137.5446691155435	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913134_2	ERR6913134_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	87387.0	0.0	35-151	43.0	89.46868527355328	137.5216336526028	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913200_1	ERR6913200_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	696167.0	0.0	35-151	51.0	40.97291625163863	132.33036613341338	pass	pass	pass	warn	warn	pass	warn	fail	warn	pass
+ERR6913200_2	ERR6913200_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	696167.0	0.0	35-151	51.0	41.4104564071835	132.32118730132282	pass	pass	pass	warn	warn	pass	warn	fail	warn	pass
+ERR6913227_1	ERR6913227_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1311628.0	0.0	35-151	50.0	42.1701388943855	132.09969061349713	pass	pass	pass	warn	warn	pass	warn	fail	pass	pass
+ERR6913227_2	ERR6913227_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1311628.0	0.0	35-151	50.0	42.365597043284005	132.0971906668659	pass	pass	pass	warn	warn	pass	warn	fail	pass	pass
+ERR6913228_1	ERR6913228_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1149384.0	0.0	35-151	46.0	84.84487066057744	130.962853145685	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913228_2	ERR6913228_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1149384.0	0.0	35-151	46.0	85.00523165685283	130.95293913957389	pass	pass	pass	warn	warn	pass	warn	pass	pass	pass
+ERR6913229_1	ERR6913229_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1324485.0	0.0	35-151	48.0	52.985061342147276	133.6597167955847	pass	pass	pass	warn	warn	pass	warn	warn	pass	pass
+ERR6913229_2	ERR6913229_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	1324485.0	0.0	35-151	48.0	53.123433221279925	133.6565155513275	pass	pass	pass	warn	warn	pass	warn	warn	pass	pass
+ERR6913230_1	ERR6913230_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	313114.0	0.0	35-151	50.0	69.11065872735507	121.94098635001949	pass	pass	pass	warn	pass	pass	warn	warn	warn	pass
+ERR6913230_2	ERR6913230_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	313114.0	0.0	35-151	50.0	69.18919350889192	121.93833236457009	pass	pass	pass	warn	pass	pass	warn	warn	warn	pass

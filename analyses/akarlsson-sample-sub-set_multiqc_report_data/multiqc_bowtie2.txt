@@ -1,0 +1,3 @@
+Sample	total_reads	unpaired_total	unpaired_aligned_none	unpaired_aligned_one	unpaired_aligned_multi	overall_alignment_rate
+akarlsson_bowtie_merged2PhiX	6556002	6556002	6556002	0	0	0.0
+akarlsson_bowtie_merged2SC2	6556002	6556002	6551711	4291	0	0.07

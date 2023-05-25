@@ -1,0 +1,24 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	akarlsson_bowtie_merged2SC2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/bowtie/akarlsson_bowtie_merged2SC2.log
+Bowtie 2 / HiSAT2	all_sections	akarlsson_bowtie_merged2PhiX	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/bowtie/akarlsson_bowtie_merged2PhiX.log
+FastQC	all_sections	ERR6913229_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913229_1_fastqc.zip
+FastQC	all_sections	ERR6913230_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913230_1_fastqc.zip
+FastQC	all_sections	ERR6913229_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913229_2_fastqc.zip
+FastQC	all_sections	ERR6913131_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913131_1_fastqc.zip
+FastQC	all_sections	ERR6913228_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913228_1_fastqc.zip
+FastQC	all_sections	ERR6913104_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913104_1_fastqc.zip
+FastQC	all_sections	ERR6913132_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913132_2_fastqc.zip
+FastQC	all_sections	ERR6913134_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913134_1_fastqc.zip
+FastQC	all_sections	ERR6913227_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913227_2_fastqc.zip
+FastQC	all_sections	ERR6913230_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913230_2_fastqc.zip
+FastQC	all_sections	ERR6913132_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913132_1_fastqc.zip
+FastQC	all_sections	ERR6913104_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913104_2_fastqc.zip
+FastQC	all_sections	ERR6913134_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913134_2_fastqc.zip
+FastQC	all_sections	ERR6913228_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913228_2_fastqc.zip
+FastQC	all_sections	ERR6913200_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913200_1_fastqc.zip
+FastQC	all_sections	ERR6913133_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913133_1_fastqc.zip
+FastQC	all_sections	ERR6913133_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913133_2_fastqc.zip
+FastQC	all_sections	ERR6913227_1	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913227_1_fastqc.zip
+FastQC	all_sections	ERR6913131_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913131_2_fastqc.zip
+FastQC	all_sections	ERR6913200_2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/fastqc/ERR6913200_2_fastqc.zip
+FLASh	all_sections	akarlsson_flash2	/shared/ifbstor1/projects/2314_medbioinfo/alice/MedBioinfo/analyses/akarlsson_flash2.log
