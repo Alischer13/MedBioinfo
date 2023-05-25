@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#echo "script start: download and initial sequencing read quality control"
-#date
+echo "script start: download and initial sequencing read quality control"
+date
 
 
 
@@ -10,5 +10,5 @@
 
 
 
-#date
-#echo "script end."
+date
+echo "script end."
